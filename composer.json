@@ -1,5 +1,5 @@
 {
-    "name": "robincsamuel/laravel-msg91",
+    "name": "brijesh6491/laravel-msg91",
     "description": "Package for MSG91 sms API",
     "require": {
         "guzzlehttp/guzzle": "^6.0"
