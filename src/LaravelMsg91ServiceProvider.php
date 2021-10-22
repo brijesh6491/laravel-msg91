@@ -1,6 +1,6 @@
 <?php
 
-namespace RobinCSamuel\LaravelMsg91;
+namespace brijesh6491\LaravelMsg91;
 
 use Illuminate\Support\ServiceProvider;
 

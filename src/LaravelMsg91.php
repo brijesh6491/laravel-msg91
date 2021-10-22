@@ -1,4 +1,4 @@
-<?php namespace RobinCSamuel\LaravelMsg91;
+<?php namespace brijesh6491\LaravelMsg91;
 
 use GuzzleHttp\Client as GuzzleClient;
 

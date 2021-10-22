@@ -18,7 +18,7 @@
             "src"
         ],
         "psr-4": {
-            "RobinCSamuel\\LaravelMsg91\\": "src/"
+            "brijesh6491\\LaravelMsg91\\": "src/"
         }
     }
 }
