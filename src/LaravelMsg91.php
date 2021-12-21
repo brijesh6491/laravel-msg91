@@ -142,7 +142,7 @@ class LaravelMsg91 {
 	 *
 	 */
 	public function sendOtp($recipient, $otp, $message=false, $opts=[]){
-		$data = collect($opts)->only('sender')->toArray();
+		$data = collect($opts)->only('sender','DLT_TE_ID')->toArray();
 		if(!isset($data['sender'])) $data['sender'] = $this->sender_id;
 		
 		if(!preg_match('/^[0-9]+$/i', $recipient)) 
